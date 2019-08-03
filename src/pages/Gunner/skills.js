@@ -219,7 +219,7 @@ const skills = {
         effect: (rank, level) => `Grenade Capacity: +${rank}`,
       },
       "Target Softening": {
-        text: "The Vanquisher Rocket Pod deals greatly reduced damage per rocket, but fires in a 6-rocket spread. Additionally, enemies hit by Vanquisher Rocket Pod rockets take increased damage frmo all sources.",
+        text: "The Vanquisher Rocket Pod deals greatly reduced damage per rocket, but fires in a 6-rocket spread. Additionally, enemies hit by Vanquisher Rocket Pod rockets take increased damage from all sources.",
         type: SKILLS.AUGMENT_CHEVRON,
         effect: (rank, level) => `Damage: -74%, Enemy Damage Taken: +15%`,
       },
